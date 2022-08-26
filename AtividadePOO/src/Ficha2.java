@@ -66,6 +66,52 @@ public class Ficha2 {
 //			}
 //			}
 //		}
+			
+//		QUINTO
+//		int[] array= new int[100];
+//		
+//		for(int i = 0; i < array.length; i++) {
+//			array[i] = i;
+//			if(i%2 != 0) {
+//				System.out.println(array[i]);
+//			}
+//		}
+//		
+//		SEXTO
+		
+//		int[] array= new int[100];
+//		
+//		for(int i = 0; i < array.length; i++) {
+//			array[i] = i;
+//			if(i%2 == 0) {
+//				System.out.println(array[i]);
+//			}
+//		}
+		
+//		SETIMO
+//		int[] array= new int[100];
+//		
+//		for(int i = 0; i < array.length; i++) {
+//			array[i] = i;
+//			if(i == array.length -1 || i == 0) {
+//				System.out.println(array[i]);
+//			}
+//		}
+		
+//		OITAVO
+//		int[] array= new int[100];
+//		int soma = 0;
+//		int media;
+//		
+//		for(int i = 0; i < array.length; i++) {
+//			array[i] = i;
+//			soma = soma + array[i];
+//		}
+//		
+//		media = soma / array.length;
+//				
+//		System.out.println(media);
+			
 //	}
 //}
 	
